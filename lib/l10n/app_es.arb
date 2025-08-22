@@ -1,0 +1,178 @@
+{
+  "users": "Usuarios",
+  "@users": {
+    "description": "Label for the users section in the application.",
+    "type": "text"
+  },
+  "favorites": "Favoritos",
+  "@favorites": {
+    "description": "Label for the favorites section in the application.",
+    "type": "text"
+  },
+  "userCreation": "Creación de Usuario",
+  "@userCreation": {
+    "description": "Title for the user creation page.",
+    "type": "text"
+  },
+  "userDetails": "Detalles del Usuario",
+  "@userDetails": {
+    "description": "Title for the user details page.",
+    "type": "text"
+  },
+  "userEdit": "Editar Usuario",
+  "@userEdit": {
+    "description": "Title for the user edit page.",
+    "type": "text"
+  },
+  "userList": "Lista de Usuarios",
+  "@userList": {
+    "description": "Title for the user list page.",
+    "type": "text"
+  },
+  "requiredField": "Este campo es obligatorio.",
+  "@requiredField": {
+    "description": "Message displayed when a required field is left empty.",
+    "type": "text"
+  },
+  "invalidPhoneNumber": "Formato de número de teléfono inválido.",
+  "@invalidPhoneNumber": {
+    "description": "Message displayed when the phone number format is invalid.",
+    "type": "text"
+  },
+  "invalidPostalCode": "Formato de código postal inválido.",
+  "@invalidPostalCode": {
+    "description": "Message displayed when the postal code format is invalid.",
+    "type": "text"
+  },
+  "names": "Nombres",
+  "@name": {
+    "description": "Label for the names field in user forms.",
+    "type": "text"
+  },
+  "surnames": "Apellidos",
+  "@surname": {
+    "description": "Label for the surnames field in user forms.",
+    "type": "text"
+  },
+  "dateOfBirth": "Fecha de Nacimiento",
+  "@dateOfBirth": {
+    "description": "Label for the date of birth field in user forms.",
+    "type": "text"
+  },
+  "phoneNumber": "Número de Teléfono",
+  "@phoneNumber": {
+    "description": "Label for the phone number field in user forms.",
+    "type": "text"
+  },
+  "address": "Dirección",
+  "@address": {
+    "description": "Label for the address field in user forms.",
+    "type": "text"
+  },
+  "addAddress": "Añadir Dirección",
+  "@addAddress": {
+    "description": "Button text to add a new address in user forms.",
+    "type": "text"
+  },
+  "newAddress": "Nueva Dirección",
+  "@newAddress": {
+    "description": "Title for the new address form.",
+    "type": "text"
+  },
+  "editAddress": "Editar Dirección",
+  "@editAddress": {
+    "description": "Title for the edit address form.",
+    "type": "text"
+  },
+  "city": "Ciudad",
+  "@city": {
+    "description": "Label for the city field in user forms.",
+    "type": "text"
+  },
+  "stateProvince": "Estado/Provincia",
+  "@stateProvince": {
+    "description": "Label for the state or province field in user forms.",
+    "type": "text"
+  },
+  "postalCode": "Código Postal",
+  "@postalCode": {
+    "description": "Label for the postal code field in user forms.",
+    "type": "text"
+  },
+  "country": "País",
+  "@country": {
+    "description": "Label for the country field in user forms.",
+    "type": "text"
+  },
+  "searchUser": "Buscar Usuario",
+  "@searchUser": {
+    "description": "Placeholder text for the user search input.",
+    "type": "text"
+  },
+  "userNotFound": "Usuario no encontrado.",
+  "@userNotFound": {
+    "description": "Message displayed when a user search does not return any results.",
+    "type": "text"
+  },
+  "userCreatedSuccessfully": "Usuario creado exitosamente.",
+  "@userCreatedSuccessfully": {
+    "description": "Message displayed when a user is created successfully.",
+    "type": "text"
+  },
+  "userUpdatedSuccessfully": "Usuario actualizado exitosamente.",
+  "@userUpdatedSuccessfully": {
+    "description": "Message displayed when a user is updated successfully.",
+    "type": "text"
+  },
+  "userDeletedSuccessfully": "Usuario eliminado exitosamente.",
+  "@userDeletedSuccessfully": {
+    "description": "Message displayed when a user is deleted successfully.",
+    "type": "text"
+  },
+  "deleteUserConfirmation": "¿Estás seguro de que deseas eliminar al usuario {value} ?",
+  "@deleteUserConfirmation": {
+    "description": "Confirmation message shown before deleting a user.",
+    "type": "text",
+    "placeholders": {
+      "value": {
+        "type": "String",
+        "description": "The name of the user being deleted."
+      }
+    }
+  },
+  "addressCreatedSuccessfully": "Dirección creada exitosamente.",
+  "@addressCreatedSuccessfully": {
+    "description": "Message displayed when an address is created successfully.",
+    "type": "text"
+  },
+  "addressUpdatedSuccessfully": "Dirección actualizada exitosamente.",
+  "@addressUpdatedSuccessfully": {
+    "description": "Message displayed when an address is updated successfully.",
+    "type": "text"
+  },
+  "addressDeletedSuccessfully": "Dirección eliminada exitosamente.",
+  "@addressDeletedSuccessfully": {
+    "description": "Message displayed when an address is deleted successfully.",
+    "type": "text"
+  },
+  "personalInfo": "Información Personal",
+  "@personalInfo": {
+    "description": "Section title for personal information in user forms.",
+    "type": "text"
+  },
+  "createUser": "Crear Usuario",
+  "@createUser": {
+    "description": "Button text to create a new user.",
+    "type": "text"
+  },
+  "emptyUserList": "No hay usuarios disponibles.",
+  "@emptyUserList": {
+    "description": "Message displayed when there are no users in the list.",
+    "type": "text"
+  },
+  "addresses": "Direcciones",
+    "@addresses": {
+    "description": "Label for the addresses section in user details.",
+    "type": "text"
+    }
+}

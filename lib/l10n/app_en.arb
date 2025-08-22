@@ -1,0 +1,178 @@
+{
+  "users": "Users",
+  "@users": {
+    "description": "Label for the users section in the application.",
+    "type": "text"
+  },
+  "favorites": "Favorites",
+  "@favorites": {
+    "description": "Label for the favorites section in the application.",
+    "type": "text"
+  },
+  "userCreation": "User Creation",
+  "@userCreation": {
+    "description": "Title for the user creation page.",
+    "type": "text"
+  },
+  "userDetails": "User Details",
+  "@userDetails": {
+    "description": "Title for the user details page.",
+    "type": "text"
+  },
+  "userEdit": "User Edit",
+  "@userEdit": {
+    "description": "Title for the user edit page.",
+    "type": "text"
+  },
+  "userList": "User List",
+  "@userList": {
+    "description": "Title for the user list page.",
+    "type": "text"
+  },
+  "requiredField": "This field is required.",
+  "@requiredField": {
+    "description": "Message displayed when a required field is left empty.",
+    "type": "text"
+  },
+  "invalidPhoneNumber": "Invalid phone number format.",
+  "@invalidPhoneNumber": {
+    "description": "Message displayed when the phone number format is invalid.",
+    "type": "text"
+  },
+  "invalidPostalCode": "Invalid postal code format.",
+  "@invalidPostalCode": {
+    "description": "Message displayed when the postal code format is invalid.",
+    "type": "text"
+  },
+  "names": "Names",
+  "@name": {
+    "description": "Label for the names field in user forms.",
+    "type": "text"
+  },
+  "surnames": "Surnames",
+  "@surname": {
+    "description": "Label for the surnames field in user forms.",
+    "type": "text"
+  },
+  "dateOfBirth": "Date of Birth",
+  "@dateOfBirth": {
+    "description": "Label for the date of birth field in user forms.",
+    "type": "text"
+  },
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Label for the phone number field in user forms.",
+    "type": "text"
+  },
+  "address": "Address",
+  "@address": {
+    "description": "Label for the address field in user forms.",
+    "type": "text"
+  },
+  "addAddress": "Add Address",
+  "@addAddress": {
+    "description": "Button text to add a new address in user forms.",
+    "type": "text"
+  },
+  "newAddress": "New Address",
+  "@newAddress": {
+    "description": "Title for the new address form.",
+    "type": "text"
+  },
+  "editAddress": "Edit Address",
+  "@editAddress": {
+    "description": "Title for the edit address form.",
+    "type": "text"
+  },
+  "city": "City",
+  "@city": {
+    "description": "Label for the city field in user forms.",
+    "type": "text"
+  },
+  "stateProvince": "State/Province",
+  "@stateProvince": {
+    "description": "Label for the state or province field in user forms.",
+    "type": "text"
+  },
+  "postalCode": "Postal Code",
+  "@postalCode": {
+    "description": "Label for the postal code field in user forms.",
+    "type": "text"
+  },
+  "country": "Country",
+  "@country": {
+    "description": "Label for the country field in user forms.",
+    "type": "text"
+  },
+  "searchUser": "Search User",
+  "@searchUser": {
+    "description": "Placeholder text for the user search input.",
+    "type": "text"
+  },
+  "userNotFound": "User not found.",
+  "@userNotFound": {
+    "description": "Message displayed when a user search does not return any results.",
+    "type": "text"
+  },
+  "userCreatedSuccessfully": "User created successfully.",
+  "@userCreatedSuccessfully": {
+    "description": "Message displayed when a user is created successfully.",
+    "type": "text"
+  },
+  "userUpdatedSuccessfully": "User updated successfully.",
+  "@userUpdatedSuccessfully": {
+    "description": "Message displayed when a user is updated successfully.",
+    "type": "text"
+  },
+  "userDeletedSuccessfully": "User deleted successfully.",
+  "@userDeletedSuccessfully": {
+    "description": "Message displayed when a user is deleted successfully.",
+    "type": "text"
+  },
+  "deleteUserConfirmation": "Are you sure you want to delete {value}?",
+  "@deleteUserConfirmation": {
+    "description": "Confirmation message shown before deleting a user.",
+    "type": "text",
+    "placeholders": {
+      "value": {
+        "type": "String",
+        "description": "The name of the user being deleted."
+      }
+    }
+  },
+  "addressCreatedSuccessfully": "Address created successfully.",
+  "@addressCreatedSuccessfully": {
+    "description": "Message displayed when an address is created successfully.",
+    "type": "text"
+  },
+  "addressUpdatedSuccessfully": "Address updated successfully.",
+  "@addressUpdatedSuccessfully": {
+    "description": "Message displayed when an address is updated successfully.",
+    "type": "text"
+  },
+  "addressDeletedSuccessfully": "Address deleted successfully.",
+  "@addressDeletedSuccessfully": {
+    "description": "Message displayed when an address is deleted successfully.",
+    "type": "text"
+  },
+  "personalInfo": "Personal Info",
+  "@personalInfo": {
+    "description": "Section title for personal information in user details.",
+    "type": "text"
+  },
+  "createUser": "Create User",
+  "@createUser": {
+    "description": "Button text to create a new user.",
+    "type": "text"
+  },
+  "emptyUserList": "No users available. Please add a new user.",
+  "@emptyUserList": {
+    "description": "Message displayed when there are no users in the list.",
+    "type": "text"
+  },
+  "addresses": "Addresses",
+    "@addresses": {
+    "description": "Label for the addresses section in user details.",
+    "type": "text"
+    }
+}
