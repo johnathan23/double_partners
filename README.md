@@ -143,7 +143,7 @@ graph TD;
 
 1. **Clone the Repository**
     ```bash
-    git clone <your-repository-url> .
+    git clone https://github.com/johnathan23/double_partners.git .
     ```
 
 2. **Install Dependencies**
